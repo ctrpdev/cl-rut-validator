@@ -5,6 +5,15 @@
   "main": "dist/lib/es5/index.js",
   "module": "dist/lib/es6/index.js",
   "types": "dist/lib/es6/index.d.ts",
+  "keywords": [
+    "rut",
+    "RUT",
+    "validador",
+    "rut chileno",
+    "RUT chileno",
+    "validación RUT",
+    "normalización RUT"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ctrpdev/cl-rut-validator"
