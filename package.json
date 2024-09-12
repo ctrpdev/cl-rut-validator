@@ -1,6 +1,6 @@
 {
   "name": "@ctrpdev/cl-rut-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Normaliza y valida el RUT chileno",
   "repository": {
     "type": "git",
