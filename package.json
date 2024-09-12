@@ -1,6 +1,6 @@
 {
   "name": "@ctrpdev/cl-rut-validator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Normaliza y valida el RUT chileno",
   "main": "dist/lib/es5/index.js",
   "module": "dist/lib/es6/index.js",
