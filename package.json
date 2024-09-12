@@ -2,7 +2,10 @@
   "name": "@ctrpdev/cl-rut-validator",
   "version": "0.0.1",
   "description": "Normaliza y valida el RUT chileno",
-  "repository": "git@github.com:ctrpdev/cl-rut-validator.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctrpdev/cl-rut-validator"
+  },
   "author": "ctrpdev <ctrpdev@gmail.com>",
   "license": "MIT",
   "scripts": {
