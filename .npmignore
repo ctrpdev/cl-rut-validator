@@ -1,0 +1,18 @@
+# Source files
+src/
+tsconfig.json
+tsconfig.es5.json
+jest.config.js
+
+# Tests
+**/*.test.ts
+**/*.spec.ts
+
+# Development files
+.git/
+.gitignore
+node_modules/
+coverage/
+
+# Build files that shouldn't be published
+*.tsbuildinfo

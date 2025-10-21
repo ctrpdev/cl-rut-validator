@@ -7,8 +7,8 @@
  */
 export function rutNormalizer(rut: string, dv?: string): string {
     if (typeof dv === 'undefined') {
-        return rut.replace(/[^\dkK\d]/g, '').toLocaleLowerCase();
+        return rut.replace(/[^\dkK]/g, '').toLowerCase();
     } else {
-        return (rut + dv).replace(/[^\dkK\d]/g, '').toLowerCase();
+        return (rut + dv).replace(/[^\dkK]/g, '').toLowerCase();
     }
 }
