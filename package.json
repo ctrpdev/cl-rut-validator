@@ -5,6 +5,7 @@
   "main": "dist/lib/es5/index.js",
   "module": "dist/lib/es6/index.js",
   "types": "dist/lib/es6/index.d.ts",
+  "homepage": "https://rut-validator-page.vercel.app/",
   "files": [
     "dist/lib/**/*"
   ],
